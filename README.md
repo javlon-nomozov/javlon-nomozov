@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Excellent Academy web portal](http://excellent-edu.uz/)
 
+- 📖 Student at [Excellent Academy web portal](https://najottalim.uz/)
+
 - 🌱 I’m currently learning **Typescript, NestJs, MongoDB**
 
 - 💬 Ask me about **ExpressJs, TelegrafJS,**
