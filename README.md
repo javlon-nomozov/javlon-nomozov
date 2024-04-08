@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Excellent Academy web portal](http://excellent-edu.uz/)
 
-- 📖 Student at [Excellent Academy web portal](https://najottalim.uz/)
+- 📖 Student at [Najot Ta'lim Uzbekistan](https://najottalim.uz/)
 
 - 🌱 I’m currently learning **Typescript, NestJs, MongoDB**
 
