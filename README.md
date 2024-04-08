@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/javlon.nomozov.794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="javlon.nomozov.794" height="30" width="40" /></a>
+<a href="https://t.me/javlonnomozov" target="_blank"><img align="center" src="https://i.pinimg.com/736x/2b/fe/b0/2bfeb0a06c5e03420dfcd2f3886ef172.jpg" alt="javlonnomozov" height="50" width="50" /></a>
 <a href="https://instagram.com/javlon_nomozov.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javlon_nomozov.dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@javlon_nomozov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="javlon_nomozov" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/javlonnomozov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="javlonnomozov" height="30" width="40" /></a>
