@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Javlon Nomozov</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
-# - 🔭 I’m currently working on [Excellent Academy web portal](http://excellent-edu.uz/)
+- 🔭 I’m currently working on Personal projects
 
-- 📖 Student at [Najot Ta'lim Uzbekistan](https://najottalim.uz/)
+- 📖 Student at [School21 Uzbekistan](https://applicant.21-school.uz/)
 
 - 🌱 I’m currently learning **Typescript, NestJs, MongoDB**
 
-- 💬 Ask me about **ExpressJs, TelegrafJS,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
