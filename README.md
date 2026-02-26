@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javlon Nomozov</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [Excellent Academy web portal](http://excellent-edu.uz/)
+# - 🔭 I’m currently working on [Excellent Academy web portal](http://excellent-edu.uz/)
 
 - 📖 Student at [Najot Ta'lim Uzbekistan](https://najottalim.uz/)
 
